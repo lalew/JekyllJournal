@@ -18,7 +18,11 @@ Lists                   (1,*,-,+)
 Definition Lists        (: )
 Tables                  (|,|:,|-,|=)
 HTML                    ({::options parse_block_html="true" /})
+Strikethrough           ~~this~~
 
+Task List
+- [x] this is a complete item
+- [ ] this is an incomplete item
 Block Attri       {: title="val"},{: .class #id}
                   {:refdef: .c1 #id .c2 title="title"}
                   {: refdef title="override"}
@@ -49,3 +53,5 @@ Extension   {::comment} {:/comment}
 {% highlight shell %}
   {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% endhighlight %}
+
+
