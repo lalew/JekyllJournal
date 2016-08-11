@@ -15,7 +15,7 @@
     </li>
     {% for tag in sortedTags %}
       <li>
-        <a href="{{site.baseurl}}/tags/#{{ tag | cgi_escape }}">{{ tag }} ({{ site.tags[tag].size }})</a>
+        <a href="{{site.baseurl}}/tags/#{{ tag | cgi_escape }}">{{tag}} ({{ site.tags[tag].size }})</a>
       </li>
     {% endfor %}
   </ul>
