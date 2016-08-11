@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Markdown & Liquid Cheatsheet
-date:   2016-08-11
+date:   2016-08-08
 tags: [liquid, markdown]
 ---
 Markdown and Liquid Cheatsheet!
