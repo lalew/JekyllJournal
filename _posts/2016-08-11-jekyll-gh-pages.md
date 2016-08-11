@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Jekyll Deploy"
+title:  Jekyll Deploy
 date:   2016-08-11
-tags: [jekyll, yaml, liquid, markdown]
+tags: [jekyll, yaml, liquid, markdown, FProj]
 ---
 Journey to Creating a Jekyll Journal while learning yaml, liquid, and markdown too!
 <!--more-->
