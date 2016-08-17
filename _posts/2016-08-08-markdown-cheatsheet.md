@@ -4,8 +4,15 @@ title: Markdown & Liquid Cheatsheet
 date:   2016-08-08
 tags: [liquid, markdown]
 ---
-Markdown and Liquid Cheatsheet!
+Common Markdown and Liquid commands.
 <!--more-->
+
+**Special Note**  
+2 spaces on previous line = new line
+
+* Anytime you start a list, make sure prior line is blank.
+
+
 **Block-level Elements - Main Structural Elements**
 
 {% highlight bash %}

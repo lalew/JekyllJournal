@@ -18,10 +18,11 @@ markdown: kramdown
 # Prevents turning headings into IDs
 kramdown:
   auto_ids: false
+  parse_block_html: true
 
 # Pagination Settings (Multiple pages)
 gems: [jekyll-paginate]
-paginate: 4
+paginate: 8
 paginate_path: '/blog/page:num/'
 
 # Link via Post Title instead of by Post's Filename
