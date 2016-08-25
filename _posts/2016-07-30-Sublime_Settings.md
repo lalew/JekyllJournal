@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Sublime Settings File
-date:   2016-08-15
-tags: [php, sublime]
+date:   2016-07-30
+tags: [sublime]
 ---
 Sublime Settings Files from Language Builds to Custom Tabs.
 <!-- More -->

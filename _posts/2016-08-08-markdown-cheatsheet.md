@@ -21,7 +21,7 @@ Headers                 (#)
 Blockquotes             (>)
 Code                    (`)
 HR                      (***---)
-Lists                   (1,*,-,+)
+Lists                   (1,*,-,+) Prefix: \n\n-&nbsp
 Definition Lists        (: )
 Tables                  (|,|:,|-,|=)
 HTML                    ({::options parse_block_html="true" /})
